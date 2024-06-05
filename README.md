@@ -8,7 +8,7 @@ After downloading the lib, unzip it. Then run the following command on the same 
 
 # Usage Example
 
-```
+```python
 from LiveKeeper import LiveKeeper
 from time import sleep
 
@@ -17,5 +17,5 @@ def example(): # example of a function you want to run on free hosting services
     print(1)
 
 
-LiveKeeper.run()
+LiveKeeper.run() # and that's it!
 ```
