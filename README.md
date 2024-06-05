@@ -20,6 +20,7 @@ def example(): # example of a function you want to run on free hosting services
 
 
 LiveKeeper.run() # and that's it!
+example()
 ```
 
 Ex2:
@@ -29,9 +30,3 @@ LiveKeeper.run()
 print(1)
 ```
 
-Ex3:
-```python
-from LiveKeeper import LiveKeeper
-print(1)
-LiveKeeper.run()
-```
